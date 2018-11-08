@@ -1,1 +1,0 @@
-# restr_acad
