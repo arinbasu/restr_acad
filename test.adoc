@@ -1,0 +1,25 @@
+= A document
+
+This is writen in asciidoc that has a simpler syntax. 
+
+== Lists
+- This
+- that
+
+== Table
+|===
+| header h| header2 h|
+| this    | that     |
+|===
+
+== images
+
+image::https://asciidoctor.org/images/octocat.jpg[GitHub mascot]
+
+== Citations
+Peng <<peng>>
+
+
+== References
+[bibliography]
+- [[[peng, 1]]] Peng, R. D. (2011). Reproducible research in computational science. Science, 334(6060), 1226-1227.
